@@ -143,6 +143,7 @@ Manage the set of repositories ("remotes") whose branches you track.
 
 #### Resources 
 
+* [Syncing forked repository from upstream](https://help.github.com/articles/syncing-a-fork/)
 * [Try Github](https://try.github.io)
 * [learnGitBranching](http://pcottle.github.io/learnGitBranching/?NODEMO)
 * [Pro Git - Free Book](http://git-scm.com/book)
